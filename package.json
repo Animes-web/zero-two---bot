@@ -1,0 +1,35 @@
+{
+  "name": "nazuna",
+  "version": "4.0",
+  "description": "Bot de whatsapp criado por hwenvel",
+  "main": "dados/src/connect.js",
+  "scripts": {
+    "start": "node dados/src/.scripts/start.js",
+    "start:dual": "node dados/src/.scripts/start.js dual",
+    "config": "node dados/src/.scripts/config.js",
+    "config:install": "node dados/src/.scripts/config.js --install",
+    "update": "node dados/src/.scripts/update.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiudyy/nazuna.git"
+  },
+  "homepage": "https://cognima.com.br",
+  "author": "Hiudy",
+  "license": "ISC",
+  "dependencies": {
+    "@cacheable/node-cache": "latest",
+    "@cognima/banners": "latest",
+    "@cognima/walib": "latest",
+    "fluent-ffmpeg": "latest",
+    "linkedom": "latest",
+    "node-cron": "latest",
+    "node-webpmux": "latest",
+    "qrcode-terminal": "latest",
+    "yt-search": "latest"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=9.0.0"
+  }
+}

@@ -1,0 +1,550 @@
+{
+  "commands": {
+    "menu": {
+      "count": 12,
+      "users": {
+        "5513996760180@s.whatsapp.net": 11,
+        "5513998090838@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-26T20:34:50.359Z"
+    },
+    "menufig": {
+      "count": 4,
+      "users": {
+        "5513996760180@s.whatsapp.net": 3,
+        "5513998090838@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-26T21:27:29.918Z"
+    },
+    "take": {
+      "count": 2,
+      "users": {
+        "5516988287768@s.whatsapp.net": 2
+      },
+      "lastUsed": "2025-07-23T23:35:13.559Z"
+    },
+    "emojimix": {
+      "count": 1,
+      "users": {
+        "5516988287768@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-23T23:35:58.383Z"
+    },
+    "menumemb": {
+      "count": 3,
+      "users": {
+        "5513996760180@s.whatsapp.net": 3
+      },
+      "lastUsed": "2025-07-25T12:20:53.120Z"
+    },
+    "statusbot": {
+      "count": 4,
+      "users": {
+        "5513996760180@s.whatsapp.net": 4
+      },
+      "lastUsed": "2025-07-25T12:21:19.846Z"
+    },
+    "clear": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T00:20:55.441Z"
+    },
+    "menudono": {
+      "count": 3,
+      "users": {
+        "5513996760180@s.whatsapp.net": 3
+      },
+      "lastUsed": "2025-07-26T20:50:50.801Z"
+    },
+    "nomedono": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T00:28:46.219Z"
+    },
+    "ferramentas": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T03:27:47.727Z"
+    },
+    "sticker": {
+      "count": 2,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1,
+        "5513997093147@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T03:52:42.940Z"
+    },
+    "figualeatoria": {
+      "count": 47,
+      "users": {
+        "5513996760180@s.whatsapp.net": 18,
+        "5513997093147@s.whatsapp.net": 17,
+        "5513998090838@s.whatsapp.net": 5,
+        "5513988383406@s.whatsapp.net": 4,
+        "5516988287768@s.whatsapp.net": 3
+      },
+      "lastUsed": "2025-07-26T21:27:56.424Z"
+    },
+    "menuadm": {
+      "count": 5,
+      "users": {
+        "5513996760180@s.whatsapp.net": 5
+      },
+      "lastUsed": "2025-07-25T12:20:14.845Z"
+    },
+    "grupo": {
+      "count": 3,
+      "users": {
+        "5513996760180@s.whatsapp.net": 3
+      },
+      "lastUsed": "2025-07-24T03:55:25.545Z"
+    },
+    "limpar": {
+      "count": 3,
+      "users": {
+        "5513996760180@s.whatsapp.net": 3
+      },
+      "lastUsed": "2025-07-24T16:14:07.470Z"
+    },
+    "menumembro": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T15:01:47.687Z"
+    },
+    "perfil": {
+      "count": 9,
+      "users": {
+        "5513996760180@s.whatsapp.net": 9
+      },
+      "lastUsed": "2025-07-26T21:22:28.059Z"
+    },
+    "dono": {
+      "count": 3,
+      "users": {
+        "5513996760180@s.whatsapp.net": 3
+      },
+      "lastUsed": "2025-07-25T15:57:23.191Z"
+    },
+    "programador": {
+      "count": 2,
+      "users": {
+        "5513996760180@s.whatsapp.net": 2
+      },
+      "lastUsed": "2025-07-24T15:46:35.530Z"
+    },
+    "menubn": {
+      "count": 5,
+      "users": {
+        "5513996760180@s.whatsapp.net": 5
+      },
+      "lastUsed": "2025-07-26T21:19:06.070Z"
+    },
+    "rankgay": {
+      "count": 4,
+      "users": {
+        "5513996760180@s.whatsapp.net": 4
+      },
+      "lastUsed": "2025-07-25T00:34:10.408Z"
+    },
+    "modobn": {
+      "count": 8,
+      "users": {
+        "5513996760180@s.whatsapp.net": 7,
+        "5513998090838@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-26T21:18:57.577Z"
+    },
+    "beijarb": {
+      "count": 2,
+      "users": {
+        "5513996760180@s.whatsapp.net": 2
+      },
+      "lastUsed": "2025-07-24T18:03:32.069Z"
+    },
+    "bater": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T15:33:36.505Z"
+    },
+    "matar": {
+      "count": 7,
+      "users": {
+        "5513996760180@s.whatsapp.net": 3,
+        "5513998090838@s.whatsapp.net": 2,
+        "5513997093147@s.whatsapp.net": 1,
+        "557199445890@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-26T21:23:53.140Z"
+    },
+    "rankcorno": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T15:44:33.874Z"
+    },
+    "rankmacho": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T15:45:59.423Z"
+    },
+    "bolsonarista": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T15:47:03.480Z"
+    },
+    "mamada": {
+      "count": 3,
+      "users": {
+        "5513988383406@s.whatsapp.net": 1,
+        "5516988287768@s.whatsapp.net": 2
+      },
+      "lastUsed": "2025-07-25T00:26:34.418Z"
+    },
+    "cafune": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T15:47:53.577Z"
+    },
+    "mamar": {
+      "count": 1,
+      "users": {
+        "5513988383406@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T15:48:25.009Z"
+    },
+    "otaku": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T15:49:11.109Z"
+    },
+    "visionario": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T15:49:29.396Z"
+    },
+    "corno": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T15:52:05.555Z"
+    },
+    "ping": {
+      "count": 4,
+      "users": {
+        "5513996760180@s.whatsapp.net": 4
+      },
+      "lastUsed": "2025-07-26T20:33:56.463Z"
+    },
+    "status": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T16:13:30.123Z"
+    },
+    "bejijo": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T18:03:19.889Z"
+    },
+    "casal": {
+      "count": 117,
+      "users": {
+        "5516988287768@s.whatsapp.net": 105,
+        "5513997093147@s.whatsapp.net": 2,
+        "5513988383406@s.whatsapp.net": 9,
+        "5513997267829@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:30:28.925Z"
+    },
+    "cadal": {
+      "count": 2,
+      "users": {
+        "5516988287768@s.whatsapp.net": 2
+      },
+      "lastUsed": "2025-07-25T00:24:33.566Z"
+    },
+    "gold": {
+      "count": 1,
+      "users": {
+        "5516994350204@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T20:54:26.060Z"
+    },
+    "tapa": {
+      "count": 1,
+      "users": {
+        "5516988287768@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T20:56:41.709Z"
+    },
+    "boquete": {
+      "count": 1,
+      "users": {
+        "5516988287768@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-24T20:57:08.763Z"
+    },
+    "nazita": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:31:54.604Z"
+    },
+    "gozar": {
+      "count": 3,
+      "users": {
+        "5516988287768@s.whatsapp.net": 3
+      },
+      "lastUsed": "2025-07-25T00:35:02.458Z"
+    },
+    "nazista": {
+      "count": 3,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1,
+        "5516988287768@s.whatsapp.net": 1,
+        "5513988383406@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:36:49.258Z"
+    },
+    "tapar": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:32:52.626Z"
+    },
+    "surubao": {
+      "count": 2,
+      "users": {
+        "5516988287768@s.whatsapp.net": 2
+      },
+      "lastUsed": "2025-07-25T00:33:42.697Z"
+    },
+    "mito": {
+      "count": 1,
+      "users": {
+        "5516988287768@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:34:18.565Z"
+    },
+    "explodir": {
+      "count": 1,
+      "users": {
+        "5516988287768@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:35:25.439Z"
+    },
+    "rankfiel": {
+      "count": 1,
+      "users": {
+        "5516988287768@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:36:54.384Z"
+    },
+    "psicopata": {
+      "count": 1,
+      "users": {
+        "5516988287768@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:37:54.530Z"
+    },
+    "shipo": {
+      "count": 22,
+      "users": {
+        "5516988287768@s.whatsapp.net": 22
+      },
+      "lastUsed": "2025-07-25T01:35:49.135Z"
+    },
+    "ship": {
+      "count": 2,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1,
+        "5516994350204@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:45:02.721Z"
+    },
+    "rankativo": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:42:04.217Z"
+    },
+    "indicacao": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:42:43.838Z"
+    },
+    "nao": {
+      "count": 1,
+      "users": {
+        "5516988287768@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:45:44.375Z"
+    },
+    "abraco": {
+      "count": 3,
+      "users": {
+        "5516988287768@s.whatsapp.net": 2,
+        "5513988383406@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:46:35.748Z"
+    },
+    "abracar": {
+      "count": 1,
+      "users": {
+        "5516988287768@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:46:45.805Z"
+    },
+    "burra": {
+      "count": 1,
+      "users": {
+        "5516988287768@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:47:17.637Z"
+    },
+    "morder": {
+      "count": 3,
+      "users": {
+        "5516988287768@s.whatsapp.net": 1,
+        "557199445890@s.whatsapp.net": 2
+      },
+      "lastUsed": "2025-07-26T21:23:11.262Z"
+    },
+    "eununca": {
+      "count": 7,
+      "users": {
+        "5516988287768@s.whatsapp.net": 7
+      },
+      "lastUsed": "2025-07-25T00:49:54.834Z"
+    },
+    "ppt": {
+      "count": 2,
+      "users": {
+        "5516988287768@s.whatsapp.net": 2
+      },
+      "lastUsed": "2025-07-25T00:50:25.992Z"
+    },
+    "figualeatooria": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:50:28.010Z"
+    },
+    "megapack": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:53:17.324Z"
+    },
+    "alteradores": {
+      "count": 1,
+      "users": {
+        "5516988287768@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T00:57:08.110Z"
+    },
+    "vibrato": {
+      "count": 3,
+      "users": {
+        "5516988287768@s.whatsapp.net": 3
+      },
+      "lastUsed": "2025-07-25T00:59:05.725Z"
+    },
+    "menudown": {
+      "count": 2,
+      "users": {
+        "5513996760180@s.whatsapp.net": 2
+      },
+      "lastUsed": "2025-07-26T21:14:43.847Z"
+    },
+    "meustatus": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-25T12:21:28.424Z"
+    },
+    "menuia": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-26T20:35:09.325Z"
+    },
+    "nazu": {
+      "count": 2,
+      "users": {
+        "5513996760180@s.whatsapp.net": 2
+      },
+      "lastUsed": "2025-07-26T20:35:39.722Z"
+    },
+    "gpt": {
+      "count": 2,
+      "users": {
+        "5513996760180@s.whatsapp.net": 2
+      },
+      "lastUsed": "2025-07-26T20:36:22.163Z"
+    },
+    "play": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-26T21:17:08.516Z"
+    },
+    "lindo": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-26T21:19:43.559Z"
+    },
+    "rankinteligente": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-26T21:20:55.519Z"
+    },
+    "menufih": {
+      "count": 1,
+      "users": {
+        "5513996760180@s.whatsapp.net": 1
+      },
+      "lastUsed": "2025-07-26T21:27:29.542Z"
+    }
+  },
+  "lastUpdated": "2025-07-26T21:27:56.424Z"
+}

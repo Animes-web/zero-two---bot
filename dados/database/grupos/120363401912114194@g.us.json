@@ -1,0 +1,20 @@
+{
+  "mark": {},
+  "createdAt": "2025-07-25T15:55:16.290Z",
+  "groupName": "Grupo de teste",
+  "moderators": [],
+  "allowedModCommands": [],
+  "mutedUsers": {},
+  "levelingEnabled": false,
+  "contador": [
+    {
+      "id": "5513996760180@s.whatsapp.net",
+      "msg": 6,
+      "cmd": 15,
+      "figu": 0,
+      "pushname": "アシオカガダパ Wenvel",
+      "firstSeen": "2025-07-25T15:55:16.292Z",
+      "lastActivity": "2025-07-26T20:50:50.788Z"
+    }
+  ]
+}
