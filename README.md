@@ -1,6 +1,6 @@
-# 🤖 Zero two Bot: Seu Assistente Completo para WhatsApp
+# 🤖 Nazuna : Seu Assistente Completo para WhatsApp
 
-![nazuna Bot Banner](https://images5.alphacoders.com/139/thumbbig-1395941.webp)
+![nazuna Bot Banner](https://images4.alphacoders.com/126/thumbbig-1265009.webp)
 
 📈 **Visitas Totais ao Repositório**:  
 ![Contador de Visitas](https://count.getloli.com/@zero-tow-bot?name=zero-tow-bot&theme=booru-lewd&padding=8&offset=0&align=top&scale=2&pixelated=1&darkmode=1)  
