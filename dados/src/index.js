@@ -1,10 +1,3 @@
-// ====================
-// Nazuna Bot - Index principal
-// Criado por: Hiudy
-// Versão: 4.0.0
-// Atualizado: 12/07/2025
-// Donate: https://cognima.com.br/donate
-// ====================
 
 
 const { downloadContentFromMessage } = require('@cognima/walib');
